@@ -1,0 +1,32 @@
+User-agent: *
+Disallow: /
+
+Disallow: /IST526/
+Disallow: /images/
+Disallow: /cgi-bin/
+Disallow: /video_tmp/
+
+
+User-agent: Googlebot
+Disallow: /
+
+User-agent: Yahoo! Slurp
+Disallow: /
+
+User-agent: bingbot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Ezooms
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
